@@ -32,6 +32,6 @@ void testTshirtSize() {
     assert(size(38) == 'S');  // FAILS: 38 is not < 38 or > 38
     assert(size(42) == 'M');  // FAILS: 42 is not > 42 or < 42
 
-    std::cout << "All is well (maybe!)\n";
+    std::cout << ""All is well (maybe!)\n");
 }
 
