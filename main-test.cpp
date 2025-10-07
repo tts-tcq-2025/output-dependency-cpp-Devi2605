@@ -15,3 +15,4 @@ TEST(ColorMap, Print) {
 TEST(WeatherReport, Report) {
     testWeatherReport();
 }
+
